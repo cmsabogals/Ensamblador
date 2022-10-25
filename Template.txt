@@ -1,0 +1,21 @@
+; Template 
+
+
+.386
+.model flat,stdcall
+.stack 4096
+ExitProcess proto,dwExitCode:dword
+
+INCLUDE irvine32.inc
+INCLUDE macros.inc
+
+
+.data
+
+.code
+main proc
+			
+
+	invoke ExitProcess,0
+main endp
+end main

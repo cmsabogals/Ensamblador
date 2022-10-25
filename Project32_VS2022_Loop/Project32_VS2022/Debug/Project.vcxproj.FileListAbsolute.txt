@@ -1,4 +1,0 @@
-C:\Users\ed\Desktop\Project32_VS2022 (1)\Project32_VS2022\Debug\Project.exe
-C:\Irvine\Project32_VS2022\Project32_VS2022\Debug\Project.exe
-C:\Irvine\loopExample\Project32_VS2022\Debug\Project.exe
-C:\Irvine\Project32_VS2022_Loop\Project32_VS2022\Debug\Project.exe
